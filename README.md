@@ -3,7 +3,7 @@ Enterprise clinic network designed and configured in Cisco Packet Tracer using C
 
 ## Project Overview
 
-This project is an enterprise-style clinic network designed and configured in Cisco Packet Tracer. The network provides segmented access for different departments while incorporating redundancy, routing, switching, and network services.
+This project is an enterprise style clinic network designed and configured in Cisco Packet Tracer. The network provides segmented access for different departments while incorporating redundancy, routing, switching, and network services.
 
 ## Network Topology
 
